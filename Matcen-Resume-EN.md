@@ -9,7 +9,7 @@ romancenanyi@gmail.com · +86 136 1031 4007 · [github.com/romancenanyi-png](htt
 
 ## Profile
 
-Hands-on AI operator who turns ChatGPT (Codex) and Claude into a working team for real business results. I build and run B2B export websites, SEO/GEO content, Facebook ad funnels, social video, and buyer prospecting — with AI doing about **80% of the execution** and me doing the **20% that matters**: diagnosis, fact-checking, approval and quality control.
+In foreign trade since 2023, from order follow-up to marketing operations. Hands-on AI operator who turns ChatGPT (Codex) and Claude into a working team for real business results. I build and run B2B export websites, SEO/GEO content, Facebook ad funnels, social video, and buyer prospecting — with AI doing about **80% of the execution** and me doing the **20% that matters**: diagnosis, fact-checking, approval and quality control.
 
 Since deploying AI on our company website at the end of July 2026, the site has generated **150+ organic inquiries**. I learn fast and ship fast: within four months of mastering AI agents (April 2026) I turned them into a working lead-generation system. I am now extending this with Python, API integrations and agent orchestration to build CRM and automated sales workflows for export teams.
 
