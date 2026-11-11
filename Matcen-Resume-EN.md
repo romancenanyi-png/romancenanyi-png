@@ -2,7 +2,7 @@
 
 **AI Automation & Digital Growth Specialist — B2B Websites, SEO/GEO, Paid Social, AI Content**
 
-Shenzhen, China · Open to relocation (Australia, New Zealand, Japan, USA, Europe) and remote roles
+Born 14 Dec 2003 · Shenzhen, China · Open to relocation (Australia, New Zealand, Japan, USA, Europe) and remote roles
 romancenanyi@gmail.com · +86 136 1031 4007 · [github.com/romancenanyi-png](https://github.com/romancenanyi-png)
 
 ---
@@ -23,6 +23,7 @@ Since deploying AI on our company website at the end of July 2026, the site has 
 | AI prospecting | **28 inquiries, 12 in active follow-up** from Google Maps and social-media prospecting |
 | Social & video | Facebook, YouTube and TikTok content planned and edited with AI (80% AI / 20% human review) |
 | Engineering | AI-assisted electrical CAD drawing planning reaching **~95% match** to the client's requirements |
+| Office automation | Daily documents, spreadsheets, reports and data analysis handled with AI; researching AI-built CRM and quotation systems |
 
 ## Experience
 
@@ -50,6 +51,10 @@ Started in export order follow-up and moved into website, marketing and AI opera
 - Researched buyers on Google Maps and social media with AI: narrow search formulas, official-source verification, de-duplication, A/B scoring and personalized outreach.
 - 28 inquiries; 12 in active follow-up.
 
+**AI office automation & internal tools**
+- Use AI daily for documents, spreadsheets, reports, file organization and data analysis.
+- Researching and prototyping AI-built business systems such as a CRM and a quotation system for B2B orders.
+
 ### Export Order Follow-up — Foreign trade company
 *Shanghai · Feb 2025 – Aug 2025*
 - Order processing, supplier and customer communication, shipment follow-up.
@@ -75,6 +80,7 @@ Started in export order follow-up and moved into website, marketing and AI opera
 - **Web & SEO:** WordPress, Elementor, Rank Math, Google Search Console, GA4, GTM, Semrush, Screaming Frog, PageSpeed, structured data, GEO (AI search visibility)
 - **Marketing:** Facebook Ads (lead forms, engagement), Meta Business Suite, content strategy, B2B buyer pain-point research, lead scoring
 - **Content & video:** CapCut / JianYing automation, HyperFrames, AI video prompting, YouTube, TikTok
+- **Business systems:** AI office automation; CRM and quotation-system prototyping with AI
 - **Other:** AI-assisted electrical CAD drawing planning, Python scripts with AI, Excel/data analysis
 
 ## Education
