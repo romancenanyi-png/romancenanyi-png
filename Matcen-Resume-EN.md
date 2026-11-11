@@ -19,7 +19,7 @@ Since deploying AI on our company website at the end of July 2026, the site has 
 |---|---|
 | Website SEO/GEO | **150+ organic inquiries** since AI deployment (end of July 2026), still growing |
 | Website quality | Independent SEO audit score **90/100 (A)**; 147 indexable pages with complete, unique titles, meta descriptions and H1s |
-| Facebook ads | Since late Aug 2026, total spend ~2,500: **lead-form ads 15 leads (3 in active follow-up)**, **engagement ads 40+ leads (7 in follow-up)** |
+| Facebook ads | Since late Aug 2026, total spend ~RMB 2,500 (≈ USD 350): **lead-form ads 15 leads (3 in active follow-up)**, **engagement ads 40+ leads (7 in follow-up)** |
 | AI prospecting | **28 inquiries, 12 in active follow-up** from Google Maps and social-media prospecting |
 | Social & video | Facebook, YouTube and TikTok content planned and edited with AI (80% AI / 20% human review) |
 | Engineering | AI-assisted electrical CAD drawing planning reaching **~95% match** to the client's requirements |
@@ -38,7 +38,7 @@ Started in export order follow-up and moved into website, marketing and AI opera
 - Results: 150+ organic inquiries; B2B keyword coverage in page body copy from 6/172 to 92/172; product-page duplicate content from 52% to 22%; mobile PageSpeed up to 96; WordPress editor load time from 80 s to 6.2 s.
 
 **Facebook paid social & automated analysis**
-- Launched lead-form and engagement campaigns from late Aug 2026; total spend ~2,500.
+- Launched lead-form and engagement campaigns from late Aug 2026; total spend ~RMB 2,500 (≈ USD 350).
 - Built AI workflows that pull campaign data, analyze cost per qualified lead, score leads and suggest the next single variable to test.
 - Lead-form ads: 15 leads, 3 in follow-up. Engagement ads: 40+ leads, 7 in follow-up.
 
