@@ -11,6 +11,8 @@ I use AI to run B2B export marketing end to end — websites, SEO/GEO, Facebook 
 | 📣 Facebook lead-form / engagement ads | **15 / 40+ leads** |
 | 🔎 AI prospecting (Google Maps + social) | **28 inquiries** |
 
+**3-second intro:** [English one-pager](Matcen-One-Page-Intro.pdf) · [中文一页简介](岑荣马-一页简介.pdf)
+
 **Resume:** [English (PDF)](Matcen-Resume-EN.pdf) · [中文简历 (PDF)](岑荣马-简历-中文.pdf) · [自我介绍 / About me](自我介绍.md)
 
 **Knowledge bases** (password-protected PDFs — password available on request)
