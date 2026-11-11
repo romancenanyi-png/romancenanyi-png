@@ -1,6 +1,6 @@
 # MATCEN (Rongma Cen)
 
-**AI Automation & Digital Growth Specialist — B2B Websites, SEO/GEO, Paid Social, AI Content**
+**AI Workflow Builder & B2B Growth Specialist — Websites, SEO/GEO, Paid Social, AI Prospecting**
 
 Born 14 Dec 2003 · Shenzhen, China · Open to relocation (Australia, New Zealand, Japan, USA, Europe) and remote roles
 romancenanyi@gmail.com · +86 136 1031 4007 · [github.com/romancenanyi-png](https://github.com/romancenanyi-png)
@@ -11,7 +11,7 @@ romancenanyi@gmail.com · +86 136 1031 4007 · [github.com/romancenanyi-png](htt
 
 Hands-on AI operator who turns ChatGPT (Codex) and Claude into a working team for real business results. I build and run B2B export websites, SEO/GEO content, Facebook ad funnels, social video, and buyer prospecting — with AI doing about **80% of the execution** and me doing the **20% that matters**: diagnosis, fact-checking, approval and quality control.
 
-Since deploying AI on our company website at the end of July 2026, the site has generated **150+ organic inquiries**. I am not a programmer; I came from construction sites and export order follow-up, and I learn whatever an AI-driven workflow needs.
+Since deploying AI on our company website at the end of July 2026, the site has generated **150+ organic inquiries**. I learn fast and ship fast: within four months of mastering AI agents (April 2026) I turned them into a working lead-generation system. I am now extending this with Python, API integrations and agent orchestration to build CRM and automated sales workflows for export teams.
 
 ## Key Results (Jul – Nov 2026)
 
@@ -59,15 +59,6 @@ Started in export order follow-up and moved into website, marketing and AI opera
 *Shanghai · Feb 2025 – Aug 2025*
 - Order processing, supplier and customer communication, shipment follow-up.
 
-### Security Officer — Foshan
-*Aug 2024 – Jan 2025*
-- Worked full time while self-studying English for 4 months to move into foreign trade.
-
-### Site Supervisor / Construction Technician
-*2023 – Jul 2024 · incl. power-grid project in Hainan from Apr 2024*
-- Supervised construction on a power-grid project in Hainan in 37 °C heat: safety, schedule tracking, multi-party coordination.
-- Construction site work including overnight concrete pours. Background later applied to AI-assisted electrical CAD drawings.
-
 ## Projects (private — live demo available on interview)
 
 - **B2B Website SEO/GEO Knowledge Base** — 10-stage website roadmap and a real factory-site case study.
@@ -81,6 +72,7 @@ Started in export order follow-up and moved into website, marketing and AI opera
 - **Marketing:** Facebook Ads (lead forms, engagement), Meta Business Suite, content strategy, B2B buyer pain-point research, lead scoring
 - **Content & video:** CapCut / JianYing automation, HyperFrames, AI video prompting, YouTube, TikTok
 - **Business systems:** AI office automation; CRM and quotation-system prototyping with AI
+- **Currently learning:** Python data processing and API integration (OpenAI, Claude, CRM), Dify / Coze / LangChain agent orchestration
 - **Other:** AI-assisted electrical CAD drawing planning, Python scripts with AI, Excel/data analysis
 
 ## Education
