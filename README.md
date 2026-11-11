@@ -13,10 +13,10 @@ I use AI to run B2B export marketing end to end — websites, SEO/GEO, Facebook 
 
 **Resume:** [English (PDF)](Matcen-Resume-EN.pdf) · [中文简历 (PDF)](岑荣马-简历-中文.pdf)
 
-**Projects**
-- [b2b-website-seo-geo](https://github.com/romancenanyi-png/b2b-website-seo-geo) — 10-stage B2B website roadmap + real factory-site case study
-- [b2b-website-audit](https://github.com/romancenanyi-png/b2b-website-audit) — find fatal website issues in 30 minutes, with an audit script
-- [my-codex-skills](https://github.com/romancenanyi-png/my-codex-skills) — 40 installable AI skills for Codex and Claude Code
+**Projects** (private — demo available on request)
+- B2B Website SEO/GEO Knowledge Base — 10-stage website roadmap + real factory-site case study
+- B2B Website Audit Toolkit — find fatal website issues in 30 minutes, with an audit script
+- AI Skills Library — 40 installable AI skills for Codex and Claude Code
 
 📫 romancenanyi@gmail.com · Open to roles in Australia, New Zealand, Japan, USA, Europe, remote, and the Greater Bay Area
 

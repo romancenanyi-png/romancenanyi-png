@@ -63,11 +63,11 @@ Started in export order follow-up and moved into website, marketing and AI opera
 - Supervised construction on a power-grid project in Hainan in 37 °C heat: safety, schedule tracking, multi-party coordination.
 - Construction site work including overnight concrete pours. Background later applied to AI-assisted electrical CAD drawings.
 
-## Projects (public)
+## Projects (private — live demo available on interview)
 
-- **B2B Website SEO/GEO Knowledge Base** — 10-stage website roadmap and a real factory-site case study. [github.com/romancenanyi-png/b2b-website-seo-geo](https://github.com/romancenanyi-png/b2b-website-seo-geo)
-- **B2B Website Audit Toolkit** — find fatal SEO, trust and conversion issues in 30 minutes; read-only Python audit script. [github.com/romancenanyi-png/b2b-website-audit](https://github.com/romancenanyi-png/b2b-website-audit)
-- **AI Skills Library** — 40 installable skills for Codex and Claude Code covering websites, SEO/GEO, Facebook, prospecting and video. [github.com/romancenanyi-png/my-codex-skills](https://github.com/romancenanyi-png/my-codex-skills)
+- **B2B Website SEO/GEO Knowledge Base** — 10-stage website roadmap and a real factory-site case study.
+- **B2B Website Audit Toolkit** — find fatal SEO, trust and conversion issues in 30 minutes; read-only Python audit script.
+- **AI Skills Library** — 40 installable skills for Codex and Claude Code covering websites, SEO/GEO, Facebook, prospecting and video.
 
 ## Skills
 
